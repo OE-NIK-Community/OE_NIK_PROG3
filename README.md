@@ -1,4 +1,6 @@
 # OE_NIK_PROG3
+
+![Hallgatói Jegyzet](https://img.shields.io/badge/megoldás-Hallgatói-blue))
 Óbuda University, Java-C# mixup project.
 
 This was the half-year project for the Webprogramming and Modern Programming subject.
